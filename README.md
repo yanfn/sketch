@@ -1,1 +1,1 @@
-# sketch
+# Etch a sktech a pixelated painting app 
